@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiayin (Alice) Wang / 汪佳茵"
+title                    : "Jiayin Wang / 汪佳茵"
 title_separator          : "-"
 name                     : &name "Jiayin Wang"
 description              : &description "personal description"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Jiayin Wang"
   avatar           : "alice.jpeg"
-  bio              : "Currently a master student at THUIR lab."
+  bio              : "as vibrant as a cactus"
   location         : "Beijing, China"
-  employer         : "MS@CST, THU"
+  employer         : "MS@THUIR, CST, THU"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "alicethu0208@gmail.com"
