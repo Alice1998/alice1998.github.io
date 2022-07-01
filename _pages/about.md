@@ -10,12 +10,12 @@ redirect_from:
 
 I'm a second year master student, fortunately supervised prof. [Min Zhang](http://www.thuir.cn/group/~mzhang/).
 
-[Information Retrival Group](http://www.thuir.cn/)
-[National Lab of Intelligent Tech. & Sys.](http://www.csai.tsinghua.edu.cn/)
-[Department of Computer Sci.& Tech.](http://www.cs.tsinghua.edu.cn/)
+[Information Retrival Group ](http://www.thuir.cn/)  
+[National Lab of Intelligent Tech. & Sys.](http://www.csai.tsinghua.edu.cn/),  
+[Department of Computer Sci.& Tech.](http://www.cs.tsinghua.edu.cn/),  
 [Tsinghua University](http://www.tsinghua.edu.cn/), Beijing, China
 
-jiayin-w20 AT mails.tsinghua.edu.cn
+jiayin-w20 AT mails.tsinghua.edu.cn  
 alicethu0208 AT gmail.com
 
 **Research Interests**: Recommendation, User Behavior Analysis.
@@ -30,9 +30,9 @@ alicethu0208 AT gmail.com
 
 ## Experiences
 
-**TA**
+**TA**  
 Web and Information Retrival, Spring in 2022
 
-**Intern**
-@Meituan, summer in 2022
+**Intern **  
+@Meituan, summer in 2022  
 @[UMich](https://www.mi2lab.com/), summer in 2019
