@@ -16,6 +16,7 @@ I am a third year master's student at Tsinghua University, supervised by prof. [
 [Tsinghua University](http://www.tsinghua.edu.cn/), Beijing, China
 
 JiayinWangTHU AT gmail.com
+
 jiayin-w20 AT mails.tsinghua.edu.cn  
 
 **Research Interests**: Recommendation, User Behavior Analysis.
