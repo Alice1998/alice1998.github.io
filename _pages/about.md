@@ -8,16 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year master's student at Tsinghua University, supervised by prof. [**Min Zhang**](http://www.thuir.cn/group/~mzhang/).
+I am a research assistant at Information Retrieval lab (THUIR), Tsinghua University. Before that, I received my master degree in Computer Science and Technology from Tsinghua University, under the supervision of Prof. [**Min Zhang**](http://www.thuir.cn/group/~mzhang/).
 
 [Information Retrival Group ](http://www.thuir.cn/)  
 [National Lab of Intelligent Technology and System](http://www.csai.tsinghua.edu.cn/)  
 [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/)  
 [Tsinghua University](http://www.tsinghua.edu.cn/), Beijing, China
 
-JiayinWangTHU AT gmail.com
-
-jiayin-w20 AT mails.tsinghua.edu.cn  
+JiayinWangTHU AT gmail.com 
 
 **Research Interests**: Recommendation, User Behavior Analysis.
 
@@ -43,5 +41,6 @@ jiayin-w20 AT mails.tsinghua.edu.cn
 
 **Intern**
 
+- @University of Montreal, fall in 2023
 - @Meituan, summer in 2022  
 - @[UMich](https://www.mi2lab.com/), summer in 2019
