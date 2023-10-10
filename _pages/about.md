@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi ʕ •ᴥ•ʔ"
+title: "Hi,"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assistant at Information Retrieval lab (THUIR), Tsinghua University. Before that, I received my Bachelor and Master degree in Computer Science and Technology, Tsinghua University. Prof 
-**Min Zhang**](http://www.thuir.cn/group/~mzhang/) is my Master's supervisor.
+I am a research assistant at Information Retrieval lab (THUIR), Tsinghua University. Before that, I received my Bachelor and Master degree in Computer Science and Technology, Tsinghua University. Prof [**Min Zhang**](http://www.thuir.cn/group/~mzhang/) is my Master's supervisor.
 
 [Information Retrival Group ](http://www.thuir.cn/)  
 [National Lab of Intelligent Technology and System](http://www.csai.tsinghua.edu.cn/)  
