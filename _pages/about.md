@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi"
+title: "Hi ʕ •ᴥ•ʔ"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assistant at Information Retrieval lab (THUIR), Tsinghua University. Before that, I received my master degree in Computer Science and Technology from Tsinghua University, under the supervision of Prof. [**Min Zhang**](http://www.thuir.cn/group/~mzhang/).
+I am a research assistant at Information Retrieval lab (THUIR), Tsinghua University. Before that, I received my Bachelor and Master degree in Computer Science and Technology, Tsinghua University. Prof 
+**Min Zhang**](http://www.thuir.cn/group/~mzhang/) is my Master's supervisor.
 
 [Information Retrival Group ](http://www.thuir.cn/)  
 [National Lab of Intelligent Technology and System](http://www.csai.tsinghua.edu.cn/)  
@@ -33,6 +34,12 @@ JiayinWangTHU AT gmail.com
 
 ## Experiences
 
+**Education**
+
+- B.E., Department of Computer Science and Technology, Tsinghua University. 2016-2020
+- M.S., Department of Computer Science and Technology, Tsinghua University. 2020-2023
+
+
 **TA**
 
 - Web and Information Retrival (Global Hybrid), Spring in 2022
@@ -41,6 +48,6 @@ JiayinWangTHU AT gmail.com
 
 **Intern**
 
-- @University of Montreal, fall in 2023
-- @Meituan, summer in 2022  
+- @[University of Montreal](http://rali.iro.umontreal.ca/nie-site/jian-yun-nie-en/), fall in 2023
+- @Meituan, summer in 2022
 - @[UMich](https://www.mi2lab.com/), summer in 2019
