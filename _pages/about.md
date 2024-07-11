@@ -21,7 +21,11 @@ JiayinWangTHU AT gmail.com
 
 
 
-## Publications
+## Paper List
+
+- **Jiayin Wang**, Fengran Mo, Wweizhi Ma, Peijie Sun, Min Zhang, Jian-Yun Nie. A User-Centric Benchmark for Evaluating Large Language Models. (Arxiv)
+
+- **Jiayin Wang**, Weizhi Ma, Peijie Sun, Min Zhang, Jian-Yun Nie. Understanding User Experience in Large Language Model Interactions. (Arxiv)
 
 - **Jiayin Wang**, Weizhi Ma, Chumeng Jiang, Min Zhang, Yuan Zhang, Biao Li, Peng Jiang. Measuring Item Global Residual Value for Fair Recommendation. The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval. (**SIGIR 23**)
 
