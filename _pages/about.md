@@ -17,22 +17,40 @@ I am a research assistant at Information Retrieval lab (THUIR), Tsinghua Univers
 
 JiayinWangTHU AT gmail.com 
 
-**Research Interests**: Recommendation, User Behavior Analysis.
+**Research Interests**: Personalization, User Modeling, LLM Knowledge Update.
 
 
 
 ## Paper List
 
-- **Jiayin Wang**, Fengran Mo, Wweizhi Ma, Peijie Sun, Min Zhang, Jian-Yun Nie. A User-Centric Benchmark for Evaluating Large Language Models. (Arxiv)
 
-- **Jiayin Wang**, Weizhi Ma, Peijie Sun, Min Zhang, Jian-Yun Nie. Understanding User Experience in Large Language Model Interactions. (Arxiv)
+- A User-Centric Benchmark for Evaluating Large Language Models. (Arxiv)
 
-- **Jiayin Wang**, Weizhi Ma, Chumeng Jiang, Min Zhang, Yuan Zhang, Biao Li, Peng Jiang. Measuring Item Global Residual Value for Fair Recommendation. The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval. (**SIGIR 23**)
+  **Jiayin Wang**, Fengran Mo, Weizhi Ma, Peijie Sun, Min Zhang, Jian-Yun Nie. 
 
-- **Jiayin Wang**, Weizhi Ma, Jiayu Li, Hongyu Lu, Min Zhang, Biao Li, Yiqun Liu, Peng Jiang, Shaoping Ma. Make Fairness More Fair: Fair Item Utility Estimation and Exposure Re-distribution. The 28th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. (**KDD 22**)
+  
 
-- M. Nebeling, M. Speicher, X. Wang, S. Rajaram, B.D. Hall, Z. Xie, A.R.E. Raistrick, M. Aebersold, E.G. Happ, **J. Wang**, Y. Sun, L. Zhang, L. Ramsier, R. Kulkarni. MRAT: The Mixed Reality Analytics Toolkit. ACM Conference on Human Factors in Computing Systems. (**CHI 20, Best Paper Award**). [Online Version](http://www.michael-nebeling.de/publications/chi20b.pdf).
+- Understanding User Experience in Large Language Model Interactions. (Arxiv)
 
+  **Jiayin Wang**, Weizhi Ma, Peijie Sun, Min Zhang, Jian-Yun Nie. 
+
+  
+
+- Measuring Item Global Residual Value for Fair Recommendation. (**SIGIR 23**)
+
+  **Jiayin Wang**, Weizhi Ma, Chumeng Jiang, Min Zhang, Yuan Zhang, Biao Li, Peng Jiang. 
+
+  
+
+- Make Fairness More Fair: Fair Item Utility Estimation and Exposure Re-distribution. (**KDD 22**)
+
+  **Jiayin Wang**, Weizhi Ma, Jiayu Li, Hongyu Lu, Min Zhang, Biao Li, Yiqun Liu, Peng Jiang, Shaoping Ma. 
+
+  
+
+- MRAT: The Mixed Reality Analytics Toolkit. (**CHI 20, Best Paper Award**)
+
+  M. Nebeling, M. Speicher, X. Wang, S. Rajaram, B.D. Hall, Z. Xie, A.R.E. Raistrick, M. Aebersold, E.G. Happ, **J. Wang**, Y. Sun, L. Zhang, L. Ramsier, R. Kulkarni. 
 
 
 ## Experiences
@@ -52,5 +70,4 @@ JiayinWangTHU AT gmail.com
 **Intern**
 
 - @[University of Montreal](http://rali.iro.umontreal.ca/nie-site/jian-yun-nie-en/), fall in 2023
-- @Meituan, summer in 2022
 - @[UMich](https://www.mi2lab.com/), summer in 2019
