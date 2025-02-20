@@ -23,6 +23,8 @@ JiayinWangTHU AT gmail.com
 
 ## Selected Paper List
 
+#### 2025
+
 - Intelligent Agents with Adaptive Knowledge Fusion for Personalized Recommendation (**WWW 2025 Competition**)
 
   Yuanqing Yu, Zhefan Wang, Chumeng Jiang, Xinyi Li, **Jiayin Wang**, Min Zhang.
@@ -35,7 +37,9 @@ JiayinWangTHU AT gmail.com
 
   Heng Er Metilda Chee^, **Jiayin Wang^**, Zhiqiang Guo, Weizhi Ma, Min Zhang.
 
-- [Interpret the Internal States of Recommendation Model with Sparse Autoencoder](https://arxiv.org/pdf/2411.06112). (Arxiv)
+#### 2024
+
+- [Interpret the Internal States of Recommendation Model with Sparse Autoencoder](https://arxiv.org/pdf/2411.06112). (Arxiv 24)
 
   **Jiayin Wang**, Xiaoyu Zhang, Weizhi Ma, Min Zhang.
 
@@ -47,7 +51,11 @@ JiayinWangTHU AT gmail.com
 
   Xiaoyu Zhang, Yishan Li, **Jiayin Wang**, Bowen Sun, Weizhi Ma, Peijie Sun, Min Zhang.
 
-- [Understanding User Experience in Large Language Model Interactions](https://arxiv.org/pdf/2401.08329). (Arxiv)
+- [Understanding User Experience in Large Language Model Interactions](https://arxiv.org/pdf/2401.08329). (Arxiv 24)
+
+  **Jiayin Wang**, Weizhi Ma, Peijie Sun, Min Zhang, Jian-Yun Nie.
+
+#### 2020-2023
 
   **Jiayin Wang**, Weizhi Ma, Peijie Sun, Min Zhang, Jian-Yun Nie. 
 
@@ -55,7 +63,6 @@ JiayinWangTHU AT gmail.com
 
   **Jiayin Wang**, Weizhi Ma, Chumeng Jiang, Min Zhang, Yuan Zhang, Biao Li, Peng Jiang. 
   
-
 - [Make Fairness More Fair: Fair Item Utility Estimation and Exposure Re-distribution](https://dl.acm.org/doi/pdf/10.1145/3534678.3539354). (**KDD 22**)
 
   **Jiayin Wang**, Weizhi Ma, Jiayu Li, Hongyu Lu, Min Zhang, Biao Li, Yiqun Liu, Peng Jiang, Shaoping Ma. 
