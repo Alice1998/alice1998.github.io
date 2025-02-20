@@ -21,7 +21,19 @@ JiayinWangTHU AT gmail.com
 
 
 
-## Paper List
+## Selected Paper List
+
+- Intelligent Agents with Adaptive Knowledge Fusion for Personalized Recommendation (**WWW 2025 Competition**)
+
+  Yuanqing Yu, Zhefan Wang, Chumeng Jiang, Xinyi Li, **Jiayin Wang**, Min Zhang.
+
+- [Beyond Utility: Evaluating LLM as Recommender](https://arxiv.org/pdf/2411.00331) (**WWW 2025**)
+
+  Chumeng Jiang, **Jiayin Wang**, Weizhi Ma, Charles L. A. Clarke, Shuai Wang, Chuhan Wu, Min Zhang.
+
+- [PerSRV: Personalized Sticker Retrieval with Vision-Language Model](https://arxiv.org/pdf/2410.21801) (**WWW 2025**)
+
+  Heng Er Metilda Chee^, **Jiayin Wang^**, Zhiqiang Guo, Weizhi Ma, Min Zhang.
 
 - [Interpret the Internal States of Recommendation Model with Sparse Autoencoder](https://arxiv.org/pdf/2411.06112). (Arxiv)
 
