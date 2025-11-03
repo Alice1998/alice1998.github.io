@@ -17,13 +17,25 @@ I am a PhD student at the Information Retrieval lab (THUIR), the Department of C
 
 JiayinWangTHU AT gmail.com 
 
-**Research Interests**: Personalization, User Modeling, LLM Memory and Knowledge Update.
+**Research Interests**: Personalization, LLM Test-time Learning.
 
 
 
 ## Selected Paper List
 
 #### 2025
+
+- [How Far Can LLMs Improve from Experience? Measuring Test-Time Learning Ability in LLMs with Human Comparison](https://aclanthology.org/2025.emnlp-main.1304.pdf) (**EMNLP 2025**)
+
+  **Jiayin Wang**, Zhiqiang Guo, Wei Ma, Min Zhang.
+
+- Small Stickers, Big Meanings: A Multilingual Sticker Semantic Understanding Dataset with a Gamified Approach (**MM 2025**)
+
+  HE Metilda Chee, **Jiayin Wang**, Zhiqiang Guo, Weizhi Ma, Min Zhang.
+
+- [U-Sticker: A Large-Scale Multi-Domain User Sticker Dataset for Retrieval and Personalization](https://dl.acm.org/doi/pdf/10.1145/3726302.3730311) (**SIGIR 2025**)
+
+  HE Metilda Chee, **Jiayin Wang**, Zhiqiang Guo, Weizhi Ma, Qinglang Guo, Min Zhang.
 
 - Intelligent Agents with Adaptive Knowledge Fusion for Personalized Recommendation (**WWW 2025 Competition**)
 
@@ -35,7 +47,7 @@ JiayinWangTHU AT gmail.com
 
 - [PerSRV: Personalized Sticker Retrieval with Vision-Language Model](https://arxiv.org/pdf/2410.21801) (**WWW 2025**)
 
-  Heng Er Metilda Chee^, **Jiayin Wang^**, Zhiqiang Guo, Weizhi Ma, Min Zhang.
+  HE Metilda Chee^, **Jiayin Wang^**, Zhiqiang Guo, Weizhi Ma, Min Zhang.
 
 #### 2024
 
@@ -73,6 +85,7 @@ JiayinWangTHU AT gmail.com
   M. Nebeling, M. Speicher, X. Wang, S. Rajaram, B.D. Hall, Z. Xie, A.R.E. Raistrick, M. Aebersold, E.G. Happ, **J. Wang**, Y. Sun, L. Zhang, L. Ramsier, R. Kulkarni. 
 
 
+
 ## Experiences
 
 - Ph.D student, Department of Computer Science and Technology, Tsinghua University. 2024-
@@ -83,9 +96,8 @@ JiayinWangTHU AT gmail.com
 
 **TA**
 
+- Machine Learning. 2025
 - Web and Information Retrival (Global Hybrid), Spring in 2022
-
-
 
 **Intern**
 
