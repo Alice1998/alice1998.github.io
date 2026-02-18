@@ -17,7 +17,7 @@ I am a PhD student at the Information Retrieval lab (THUIR), the Department of C
 
 JiayinWangTHU AT gmail.com 
 
-**Research Interests**: Personalization, LLM Test-time Learning.
+**Research Interests**: Personalization, LLM Test-time Learning, Memory Internalization.
 
 
 
@@ -25,7 +25,7 @@ JiayinWangTHU AT gmail.com
 
 #### 2026
 
-- [Interpret the Internal Representations of Recommendation Models with Sparse Autoencoders](https://arxiv.org/pdf/2411.06112). (TOIS)
+- [Interpret the Internal Representations of Recommendation Models with Sparse Autoencoders](https://arxiv.org/pdf/2411.06112). (**TOIS**)
 
   **Jiayin Wang**, Xiaoyu Zhang, Weizhi Ma, Zhiqiang Guo, Min Zhang.
 
