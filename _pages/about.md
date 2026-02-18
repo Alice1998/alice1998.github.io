@@ -23,6 +23,12 @@ JiayinWangTHU AT gmail.com
 
 ## Selected Paper List
 
+#### 2026
+
+- [Interpret the Internal Representations of Recommendation Models with Sparse Autoencoders](https://arxiv.org/pdf/2411.06112). (TOIS)
+
+  **Jiayin Wang**, Xiaoyu Zhang, Weizhi Ma, Zhiqiang Guo, Min Zhang.
+
 #### 2025
 
 - [How Far Can LLMs Improve from Experience? Measuring Test-Time Learning Ability in LLMs with Human Comparison](https://aclanthology.org/2025.emnlp-main.1304.pdf) (**EMNLP 2025**)
@@ -51,10 +57,6 @@ JiayinWangTHU AT gmail.com
 
 #### 2024
 
-- [Interpret the Internal States of Recommendation Model with Sparse Autoencoder](https://arxiv.org/pdf/2411.06112). (Arxiv 24)
-
-  **Jiayin Wang**, Xiaoyu Zhang, Weizhi Ma, Min Zhang.
-
 - [A User-Centric Multi-Intent Benchmark for Evaluating Large Language Models](https://aclanthology.org/2024.emnlp-main.210.pdf). (**EMNLP 2024**. **Resource Award**)
 
   **Jiayin Wang**, Fengran Mo, Weizhi Ma, Peijie Sun, Min Zhang, Jian-Yun Nie. 
@@ -69,7 +71,6 @@ JiayinWangTHU AT gmail.com
 
 #### 2020-2023
 
-  **Jiayin Wang**, Weizhi Ma, Peijie Sun, Min Zhang, Jian-Yun Nie. 
 
 - [Measuring Item Global Residual Value for Fair Recommendation](https://dl.acm.org/doi/pdf/10.1145/3539618.3591724). (**SIGIR 23**)
 
